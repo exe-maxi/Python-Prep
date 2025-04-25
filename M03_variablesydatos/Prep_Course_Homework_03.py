@@ -7,7 +7,8 @@
 
 # In[7]:
 
-
+a = 12
+print(12)
 
 
 # 2) Imprimir el tipo de dato de la constante 8.5
