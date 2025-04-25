@@ -1,2 +1,6 @@
-a = 1 << 10
-print(a)
+
+uno = 'True'
+dos = True
+
+print(type(uno))
+print(type(dos))
